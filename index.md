@@ -7,10 +7,9 @@ In our lab we employ highly multiplex imaging such as Imaging Mass Cytometry to 
 
 ## Publications
 
-- [Characterisation of tumour microenvironment remodelling following oncogene inhibition in preclinical studies with imaging mass cytometry.
-Nature Communications 2021.]
-Van Maldegem F, Valand K, et al. 
-(https://doi.org/10.1038/s41467-021-26214-x)
+- Characterisation of tumour microenvironment remodelling following oncogene inhibition in preclinical studies with imaging mass cytometry.
+Van Maldegem F, Valand K, et al.
+[Nature Communications 2021.](https://doi.org/10.1038/s41467-021-26214-x)
 
 ## Our Team
 
